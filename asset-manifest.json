@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/loginswitchtabsreact/static/css/main.d701d2d3.css",
+    "main.js": "/loginswitchtabsreact/static/js/main.8bfdd50d.js",
+    "static/media/signup.png": "/loginswitchtabsreact/static/media/signup.b431d919de01b6515dd6.png",
+    "static/media/login.png": "/loginswitchtabsreact/static/media/login.4d877a447365e5137b67.png",
+    "static/media/frame.png": "/loginswitchtabsreact/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/Logo.svg": "/loginswitchtabsreact/static/media/Logo.fd896773ef070a122541fd8722efa10f.svg",
+    "index.html": "/loginswitchtabsreact/index.html",
+    "main.d701d2d3.css.map": "/loginswitchtabsreact/static/css/main.d701d2d3.css.map",
+    "main.8bfdd50d.js.map": "/loginswitchtabsreact/static/js/main.8bfdd50d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d701d2d3.css",
+    "static/js/main.8bfdd50d.js"
+  ]
+}
