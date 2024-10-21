@@ -1,7 +1,6 @@
 Demo - https://lokeshloki3.github.io/loginswitchtabsreact/
 
 Steps -
-STEPS: 
 
 1. Install Node.
 
